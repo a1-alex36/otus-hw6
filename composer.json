@@ -1,0 +1,23 @@
+{
+    "name": "alexm/otus-hw6",
+    "license": "GPL-3.0-only",
+    "description": "otus-hw6 desc",
+    "authors": [
+        {
+            "name": "a1-alex36",
+            "email": "a1-alex36@yandex.ru"
+        }
+    ],
+    "require": {
+        "a1alex36/balance-checker": "dev-main"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    },
+    "bin": [
+        "bin/start-balancer.php"
+    ],
+    "autoload": {
+
+    }
+}
